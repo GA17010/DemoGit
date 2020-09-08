@@ -1,3 +1,8 @@
-i: int
-for i in range(1, 10):
-    print(i)
+#primer ejemplo de uso for
+#es un palindrome
+import funciones as f
+
+f.palindrome(input("Digite una palabra"))
+
+
+print("mas")
